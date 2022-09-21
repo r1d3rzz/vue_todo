@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "body": "This is Todo 1",
+      "detail": "This is the detail of Todo 1"
+    },
+    {
+      "id": 2,
+      "body": "This is Todo 2",
+      "detail": "This is the detail of Todo 2"
+    },
+    {
+      "id": 3,
+      "body": "This is Todo 3",
+      "detail": "This is the detail of Todo 3"
+    },
+    {
+      "id": 4,
+      "body": "This is Todo 4",
+      "detail": "This is the detail of Todo 4"
+    }
+  ]
+}
